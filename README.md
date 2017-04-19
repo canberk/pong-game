@@ -1,4 +1,4 @@
 # pong-game
 enjoy the js game
-
-open index and play
+	
+[Oyna!](https://canberk.github.io/pong-game/)]
